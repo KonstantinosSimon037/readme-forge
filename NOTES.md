@@ -6,3 +6,4 @@
 - note 11: keep the changelog one entry per release (2026-10-09T23:50:49)
 - note 13: paths in examples stay relative (2026-10-09T23:51:03)
 - note 15: temporary notes are pruned weekly (2026-10-09T23:51:18)
+- note 17: setup runs before the first import (2026-10-09T23:51:34)
