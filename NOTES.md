@@ -8,3 +8,4 @@
 - note 15: temporary notes are pruned weekly (2026-10-09T23:51:18)
 - note 17: setup runs before the first import (2026-10-09T23:51:34)
 - note 19: review notes before tagging (2026-10-09T23:51:51)
+- note 21: the sample command stays copy-pasteable (2026-10-09T23:52:11)
