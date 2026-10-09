@@ -2,3 +2,4 @@
 - note 3: names follow the directory layout (2026-10-09T23:49:50)
 - note 5: setup runs before the first import (2026-10-09T23:50:05)
 - note 7: review notes before tagging (2026-10-09T23:50:20)
+- note 9: names follow the directory layout (2026-10-09T23:50:34)
