@@ -1,1 +1,2 @@
 - note 1: keep the titles in sentence case (2026-10-09T23:49:35)
+- note 3: names follow the directory layout (2026-10-09T23:49:50)
