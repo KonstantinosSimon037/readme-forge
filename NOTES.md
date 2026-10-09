@@ -3,3 +3,4 @@
 - note 5: setup runs before the first import (2026-10-09T23:50:05)
 - note 7: review notes before tagging (2026-10-09T23:50:20)
 - note 9: names follow the directory layout (2026-10-09T23:50:34)
+- note 11: keep the changelog one entry per release (2026-10-09T23:50:49)
